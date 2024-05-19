@@ -2,7 +2,7 @@
 
 # Summary
 
-This script takes an image formatted in base64 and publishes it.
+This script fetches an image formatted in base64 from subscription.
 
 Understanding of MQTT protocol is needed.
 
